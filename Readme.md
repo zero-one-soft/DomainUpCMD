@@ -1,0 +1,7 @@
+- Multi-URL Support: Allow the CLI to check multiple websites at once.
+   - Scheduling: Add the ability to schedule checks at regular intervals.
+   - Response Time Measurement: Measure and report the response time of each website.
+   - Error Code Reporting: Provide the HTTP status code if a website is offline.
+   - Email/Text Notification: Send an email or a text notification if a website goes down.
+   - Log Files: Maintain log files of the checks.
+   - User-Friendly Output: Make the results easy to understand, using colors or other visual cues.
